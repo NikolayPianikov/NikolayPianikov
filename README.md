@@ -4,6 +4,6 @@
         <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram />
     </a>
     <a href="mailto:NikolayP@mail.ru" target="_blank">
-        <img src=https://img.shields.io/badge/EMail-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=email />
+        <img src=https://img.shields.io/badge/EMail-2CA5E0?style=for-the-badge&logo=email&logoColor=white alt=email />
     </a>
 </div>
